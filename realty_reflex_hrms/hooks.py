@@ -5,7 +5,7 @@ app_description = "HRMS"
 app_email = "info@hybrow.in"
 app_license = "mit"
 dependencies = [
-    "Realty Reflex Hrms~=16.0.0"
+    "Realty-Reflex-Hrms~=16.0.0"
 ]
 # Apps
 # ------------------
